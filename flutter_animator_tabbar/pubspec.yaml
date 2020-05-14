@@ -1,8 +1,7 @@
 name: flutter_animator_tabbar
 description: 仿美团tabbar效果.
 version: 0.0.1
-author: fishofeyes@gmail.com
-homepage:
+homepage: https://github.com/eyesoffish/flutter_animator_tabbar.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
